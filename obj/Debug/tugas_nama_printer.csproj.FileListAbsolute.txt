@@ -1,0 +1,8 @@
+D:\Pemrograman C#\praktikum 9\tugas_nama_printer\tugas_nama_printer\bin\Debug\tugas_nama_printer.exe.config
+D:\Pemrograman C#\praktikum 9\tugas_nama_printer\tugas_nama_printer\bin\Debug\tugas_nama_printer.exe
+D:\Pemrograman C#\praktikum 9\tugas_nama_printer\tugas_nama_printer\bin\Debug\tugas_nama_printer.pdb
+D:\Pemrograman C#\praktikum 9\tugas_nama_printer\tugas_nama_printer\obj\Debug\tugas_nama_printer.csproj.AssemblyReference.cache
+D:\Pemrograman C#\praktikum 9\tugas_nama_printer\tugas_nama_printer\obj\Debug\tugas_nama_printer.csproj.SuggestedBindingRedirects.cache
+D:\Pemrograman C#\praktikum 9\tugas_nama_printer\tugas_nama_printer\obj\Debug\tugas_nama_printer.csproj.CoreCompileInputs.cache
+D:\Pemrograman C#\praktikum 9\tugas_nama_printer\tugas_nama_printer\obj\Debug\tugas_nama_printer.exe
+D:\Pemrograman C#\praktikum 9\tugas_nama_printer\tugas_nama_printer\obj\Debug\tugas_nama_printer.pdb
